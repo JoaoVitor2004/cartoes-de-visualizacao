@@ -1,9 +1,10 @@
 <h1>Projeto cartoes-de-visualizacao</h1>
-<p> Desafio do frontend mentor</p>
+<p>Projeto feito apartir de um dos desafios do <a href="https://www.frontendmentor.io/">frontend mentor</a></p>
 <img src="images/Captura de tela.PNG" alt="imagem so site">
-<h2>Tecnologias utilizadas</h2>
+<h2>🛠 Ferramenta e tecnologias utilizadas</h2>
 <ul>
+    <li>Visual studio code</li>
     <li>HTML</li>
     <li>CSS</li>
 </ul> <br>
-<a href="https://joaovitor2004.github.io/cartoes-de-visualizacao/">Link para acessar o site</a>
+<p>🔗 Link pra acessar o <a href="https://joaovitor2004.github.io/cartoes-de-visualizacao/">site</a></p>
